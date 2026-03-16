@@ -30,3 +30,7 @@ Status
 
 Hardware design and prototype bring-up are complete.
 The FOC firmware and control stack are currently under active development.
+
+Feedback
+
+Constructive criticism, suggestions, and contributions are welcome.
