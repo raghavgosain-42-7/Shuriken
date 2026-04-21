@@ -1,3 +1,4 @@
+<img width="805" height="871" alt="Screenshot 2026-04-18 005823" src="https://github.com/user-attachments/assets/2b64b43b-df23-458c-8fb2-09b18f6675b9" />
 Shuriken – STM32G4 Dual FOC ESC Development Board
 
 Shuriken is an STM32G4-based dual-channel Field-Oriented Control (FOC) Electronic Speed Controller development board designed for high-performance BLDC/PMSM motor control in robotics and aerial systems.
